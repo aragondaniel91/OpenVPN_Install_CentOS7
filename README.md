@@ -5,7 +5,7 @@ Asegurese de tener instalado wget.
 
 1. Descargar el scrip ovpn-install.sh
 
-https://raw.githubusercontent.com/aragondaniel91/OpenVPN_Install_Centos7/main/ovpn-install.sh
+wget https://raw.githubusercontent.com/aragondaniel91/OpenVPN_Install_Centos7/main/ovpn-install.sh
 
 2. Dar permiso de ejecución
 
